@@ -1,0 +1,6 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/marcoscarpetta/heroku-website-resources
+[submodule "code"]
+	path = code
+	url = https://github.com/marcoscarpetta/heroku-website-code
