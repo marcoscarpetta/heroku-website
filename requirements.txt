@@ -1,6 +1,6 @@
 psycopg2         >= 2.7.3.2
 dj-database-url  >= 0.4.2
-Django           >= 2.0
+Django           >= 2.0.1
 gunicorn         >= 19.7.1
 whitenoise       >= 4.0b4
 requests         >= 2.18.4
