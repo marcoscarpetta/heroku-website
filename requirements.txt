@@ -5,3 +5,4 @@ gunicorn         >= 19.7.1
 whitenoise       >= 4.0b4
 requests         >= 2.18.4
 bleach           >= 2.1.2
+ruamel.yaml      >= 0.15.35
